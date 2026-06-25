@@ -14,22 +14,22 @@ Aqui compartilho projetos, estudos, experiências acadêmicas e tudo o que venho
 🔥 Desenvolvendo projetos diariamente para aprimorar minhas habilidades
 
 ## 🌐 Onde me encontrar
+## 🌐 Onde me encontrar
+
 <p align="left">
   <a href="https://github.com/valeriacarvalh0">
-    <img src="https://img.shields.io/badge/github.com/valeriacarvalh0
--181717?style=for-the-badge&logo=github" />
-</a>
-<a hret="https://www.instagram.com/f_valeriah">
-<img src="https://img.shields.io/badge/
-instagram-@f_valeriah-E4405F?
-style=for-the-badge&logo=instagram&
-logoColor=white" />
-</a>
-<a hret="https://www.tiktok.com/@f_valeriah">
-<img src="https://img.shields.io/badge/
-TIKTOK-@f_valeriah-000000?style=for-the-badge&logo=tiktok" />
-   </a>
- </p>
+    <img src="https://img.shields.io/badge/GitHub-valeriacarvalh-0181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.instagram.com/f_valeriah">
+    <img src="https://img.shields.io/badge/Instagram-f_valeriah-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="(https://www.tiktok.com/@f_valeriah)">
+    <img src="https://img.shields.io/badge/TikTok-f_valeriah-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+</p>
+
 
 ## 🤖 Linguagens e Tecnologias
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
