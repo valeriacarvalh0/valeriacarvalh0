@@ -53,8 +53,8 @@ TIKTOK-@f_valeriah-000000?style=for-the-badge&logo=tiktok" />
 
   ## 🚀 Filosofia
 
-> _"Programar não é apenas sobre resolver problemas.  
-> É sobre construir soluções." ...que ganhem escala, perdurem e gerem valor real."_
+> "Programar não é apenas sobre resolver problemas.  
+> É sobre construir soluções." ...que ganhem escala, perdurem e gerem valor real."
 
 ⭐ Se você gosta do meu trabalho, considere dar uma estrela no repositório  
 🤝 Sempre aberto a colaborações, parcerias e ideias legais
