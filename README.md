@@ -14,7 +14,6 @@ Aqui compartilho projetos, estudos, experiências acadêmicas e tudo o que venho
 🔥 Desenvolvendo projetos diariamente para aprimorar minhas habilidades
 
 ## 🌐 Onde me encontrar
-## 🌐 Onde me encontrar
 
 <p align="left">
   <a href="https://github.com/valeriacarvalh0">
