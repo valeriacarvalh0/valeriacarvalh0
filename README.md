@@ -25,7 +25,7 @@ Aqui compartilho projetos, estudos, experiências acadêmicas e tudo o que venho
   </a>
 
   <a href="(https://www.tiktok.com/@f_valeriah)">
-    <img src="https://img.shields.io/badge/TikTok-f_valeriah-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+    <img src="https://img.shields.io/badge/TikTok-@f_valeriah-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
 </p>
 
